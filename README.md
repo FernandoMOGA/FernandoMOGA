@@ -1,5 +1,4 @@
 ### Hi there 👋
-![imagen](https://github.com/FernandoMOGA/FernandoMOGA/assets/147009070/bb7e014b-c117-41ea-a95a-2b0375fc2ca6)
 
 <!--
 **FernandoMOGA/FernandoMOGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
