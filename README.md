@@ -8,15 +8,15 @@ Soy un apasionado por el mundo de la programación, especialmente en el desarrol
 
 ## ⚡⚡ Mis habilidades en el campo de la programacion ⚡⚡
 - ### Lenguajes que manejo
-  - __HTML__.....___75%___
-  - __CSS__.....___75%___
-  - __JavaScript__.....___25%___
-  - __GitHub__.....___55%___
-  - __Python__.....___55%___
-  - __C++__.....___40%___
-  - __SASS__.....___50%___
-  - __Tailwind__.....___50%___
-  - __React__.....___En proceso___
+  - __HTML__
+  - __CSS__
+  - __JavaScript__
+  - __GitHub__
+  - __Python__
+  - __C++__
+  - __SASS__
+  - __Tailwind__
+  - __React__
 
 ## Colaboraciones y Proyectos
 Hasta el momento, no he colaborado ni contribuido a algún proyecto externo, pero estoy abierto a cualquier colaboración que pueda surgir. Quiero conocer más, fortalecer mis habilidades y crear nuevas. Aunque apenas tengo proyectos de novato, esto apenas comienza y promete mejorar. Te lo aseguro.
